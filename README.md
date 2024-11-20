@@ -1,6 +1,8 @@
-## To use this repo
+## To use this repo directly
 
-You will need to finish configuring expo updates to use your EAS account/project. Set `extre.eas.projectId` and `updates.url` in `app.json`
+You will need to finish configuring expo updates to use your EAS account/project. Set `extra.eas.projectId` and `updates.url` in `app.json`.
+
+Alternatively you can follow the steps to reproduce
 
 ## Steps I took to reproduce the error
 
